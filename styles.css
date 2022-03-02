@@ -1,0 +1,93 @@
+
+#univ
+{width: 123px;
+    height: 123px;
+left: 8%;
+    position: absolute;
+    scroll-behavior: auto;
+
+}
+#suv
+{width: 123px;
+    height: 123px;
+   position: absolute;  
+   right:    8%;
+
+}
+
+
+#suvDiv{
+    position: absolute;
+  top: 42%;
+    right: 2%;
+
+    
+}
+
+#suvDiv h2{
+
+text-align: center;
+color: #0983ca;
+
+
+
+}
+#suvDiv h3{
+    text-align: center;
+    color:#2DA0B3;
+}
+#suvDiv a{
+    position: absolute;
+right: 50%;
+top: 80%;
+
+}
+
+
+
+#univDiv{
+    position: absolute;
+
+    top: 42%;
+    left: 2%;
+   
+}
+#univDiv h2{
+
+    text-align: center;
+    color:  #e70d0d;
+    
+    
+    
+    }
+ #univDiv h3{    color:  #990a0a;   }
+
+    #univDiv a{
+    position: absolute;
+    left: 50%;
+    top: 80%;
+}
+    
+
+
+body{
+
+background-image: url(    "students.png" );
+  background-repeat: no-repeat;
+  background-position-x: center;
+background-position-y: 28% ; 
+}
+
+#info{
+    position: absolute;
+top: 95%;
+right: 1%;
+color: blue;
+font-size: 13px;
+
+}
+#info2{    position: absolute;
+    top: 95%;
+    left: 1%;
+    color: rgb(255, 0, 0);
+    font-size: 13px;}

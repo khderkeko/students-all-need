@@ -1,0 +1,107 @@
+html{height: 100%;}
+body{
+
+background-image: repeating-radial-gradient(#D8D2CB,#398AB9,#1C658C);
+
+
+
+}
+
+img{
+width: 40%;
+height: 50%;
+position: absolute;
+left: 30%;
+top: 35%;
+}
+
+
+#div1{
+
+position: absolute;
+right: 5%;
+color: #191b1d;
+
+}
+
+
+#div1 a{
+
+    position: absolute;
+    right: 15%;
+    color: white;
+    font-size: large;
+    text-decoration: none;
+    
+    }
+#div2{
+
+    position: absolute;
+    right: 42%;
+    color: #191b1d;
+
+    
+    }
+    #div2 a{
+        position: absolute;
+        right: 26%;
+        color: white;
+        font-size: large;
+        text-decoration: none;
+    }
+
+
+
+    #div3{
+
+        position: absolute;
+    left: 5%;
+        color: #191b1d;
+    
+        
+        }
+        #div3 a{
+            position: absolute;
+            right: 40%;
+            color: white;
+            font-size: large;
+            text-decoration: none;
+        }
+    
+        .svg-icon path,
+        .svg-icon polygon,
+        .svg-icon rect {
+          fill: #f2f5f8;
+  
+        }
+        
+        .svg-icon circle {
+          stroke: #e2e6ec;
+          stroke-width: 1;
+        }
+        
+      
+
+      .svg-icon2 path,
+      .svg-icon2 polygon,
+      .svg-icon2 rect {
+        fill: #f2f5f8;
+
+      }
+      
+      .svg-icon2 circle {
+        stroke: #e2e6ec;
+        stroke-width: 1;
+      }
+      .svg-icon3 path,
+      .svg-icon3 polygon,
+      .svg-icon3 rect {
+        fill: #f2f5f8;
+
+      }
+      
+      .svg-icon3 circle {
+        stroke: #e2e6ec;
+        stroke-width: 1;
+      }
+      

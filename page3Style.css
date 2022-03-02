@@ -1,0 +1,62 @@
+table{position: absolute;
+right: 5%;
+top: 10%;
+background-color: white;
+}
+
+table, th, td {
+    border: 2px solid;
+  }
+  
+  table {
+    width: auto;
+  }
+
+
+  body{
+    height: 100%;
+    width: 100%;
+    background-image: repeating-radial-gradient(#E0DDAA,#203239,#141E27)
+
+  }
+  img{
+
+position: absolute;
+width: 45%;
+height: 90%;
+
+  }
+  html{
+    height: 100%;
+  }
+
+.table1{
+  position: absolute;
+  right: 5%;
+  background-color: white;
+top: 60%;
+width: 38%;
+}
+
+.table1 tr th{width: auto;}
+
+.table2{
+  position: absolute;
+  right: 5%;
+  background-color: white;
+top: 70%;
+width: 38%;
+}
+
+.table2 tr th{width: auto;}
+
+
+.table3{
+  position: absolute;
+  right: 5%;
+  background-color: white;
+top: 80%;
+width: 38%;
+}
+
+.table3 tr th{width: auto;}
